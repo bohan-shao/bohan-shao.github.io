@@ -25,7 +25,7 @@ Skills
   * Agent system design & development (tool-use, multi-step reasoning, workflow orchestration)
   * RAG systems (FAISS-based vector search, embedding pipelines)
   * LLM fine-tuning (SFT / instruction tuning)
-  * prompt engineering
+  * Prompt engineering
   * LLM API integration
 * Backend & Systems: RESTful API, FastAPI, Spring Boot, Linux, Git, Docker
 * Frontend: React, Vue
