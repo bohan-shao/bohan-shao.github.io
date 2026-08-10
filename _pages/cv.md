@@ -11,7 +11,8 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Harbin Institute of Technology, Expected 2026
+* B.S. in Computer Science, Harbin Institute of Technology, 2022-2026
+* M.S. in Artificial Intelligence, Nanyang Technological University, 2026-Present
 
 Work experience
 ======
