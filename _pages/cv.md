@@ -11,13 +11,15 @@ redirect_from:
 
 Education
 ======
-* B.S. in Computer Science, Harbin Institute of Technology, 2022-2026
+* B.S. in Computer Science, Harbin Institute of Technology, 2022-2026 (Grade: 3.6/4.0)
+  * Research focuses on Multimodal AI, advised by professor Hongli Zhang.
 * M.S. in Artificial Intelligence, Nanyang Technological University, 2026-Present
 
 Work experience
 ======
 * Sep. 2025 - Jan. 2026: AI Agent Development Intern
   * DP Technology
+  * Built core AI capabilities for [SciMaster](https://scimaster.bohrium.com), covering academic Q&A, deep research, paper search, literature review generation, and academic writing, enabling end-to-end intelligent workflows for academic research.
     
 Skills
 ======
